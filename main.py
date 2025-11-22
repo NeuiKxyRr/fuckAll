@@ -10,7 +10,7 @@ def findQQFromPhone(phone):
 def main():
     i = input("参数 :")
     root = Tk()
-    root.title("查询攻工具")
+    root.title("查询工具")
 
     root.geometry("300x200")
     label = Label(root, text="Q反", font=("Arial", 20), fg="blue", pady=10)
